@@ -1,0 +1,15 @@
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\bin\Debug\net6.0\Task_num15.exe
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\bin\Debug\net6.0\Task_num15.deps.json
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\bin\Debug\net6.0\Task_num15.runtimeconfig.json
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\bin\Debug\net6.0\Task_num15.dll
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\bin\Debug\net6.0\Task_num15.pdb
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\obj\Debug\net6.0\Task_num15.csproj.AssemblyReference.cache
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\obj\Debug\net6.0\Task_num15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\obj\Debug\net6.0\Task_num15.AssemblyInfoInputs.cache
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\obj\Debug\net6.0\Task_num15.AssemblyInfo.cs
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\obj\Debug\net6.0\Task_num15.csproj.CoreCompileInputs.cache
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\obj\Debug\net6.0\Task_num15.dll
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\obj\Debug\net6.0\refint\Task_num15.dll
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\obj\Debug\net6.0\Task_num15.pdb
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\obj\Debug\net6.0\Task_num15.genruntimeconfig.cache
+C:\Users\Achilles G 101\Documents\Знакомство с языками программирования (семинары)\FolderSeminars002_HW\Task_num15\obj\Debug\net6.0\ref\Task_num15.dll
